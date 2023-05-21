@@ -1,0 +1,4 @@
+colormath==3.0.0
+imutils==0.5.4
+numpy==1.23.3
+opencv_python==4.7.0.68
